@@ -1,0 +1,57 @@
+.bg-home {
+    font-family: "Roboto", sans-serif;
+    background-image: url(./imgs/bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header-background {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-white {
+    background-color: #fff;
+}
+
+#home {
+    height: 100vh;
+}
+
+.nav .nav-link.active {
+    background-color: transparent;
+    color: #dd4919;
+}
+
+.custom-btn {
+    background-color: #dd4919;
+    color: #fff;
+    border-radius: 25px;
+    font-size: 16px;
+}
+
+.custom-btn:hover{
+    background-color: #dd4a19a1;
+    color: #fff;
+}
+
+.section-title {
+    color: white;
+    font-size: 46px;
+}
+
+.text-colored {
+    color: #0060ff;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.bg-color {
+    background-color: #b8b9fd;
+}
